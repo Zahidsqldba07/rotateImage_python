@@ -1,2 +1,1 @@
-# rotateImage_python
-codesignal
+It was  hard to understand how copying values work in Python I found that when you copy array to another value such as b, it gets binded , so if you manipulate values of the oringal array, then copied array changes too.. Is there a way to copy arrays without linking?..
